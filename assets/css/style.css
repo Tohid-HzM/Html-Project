@@ -11,3 +11,18 @@ nav{
     width: 100%;
     height: 100%;
 }
+.test{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img1{
+
+    width: 25%;
+    height: 25%px;
+    padding-top: 50px;
+}
+.btn{
+    width: 200px;
+    margin: 5px;
+}
