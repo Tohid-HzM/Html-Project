@@ -2,7 +2,8 @@ body {
     background-color: black;
 }
 
-.nav , .top-nav{
+.nav,
+.top-nav {
     background-color: #1b5e20;
 }
 
@@ -17,7 +18,7 @@ body {
     padding: 50px;
 }
 
-.button{
+.button {
     max-width: 300px;
 }
 
@@ -26,8 +27,12 @@ body {
         box-shadow: white;
     }
 
-    .serch{
+    .serch {
         display: flex;
         align-items: center;
     }
+}
+
+.custom-input {
+    color: white;
 }
