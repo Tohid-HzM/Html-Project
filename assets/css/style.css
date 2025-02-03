@@ -36,3 +36,11 @@ body {
 .custom-input {
     color: white;
 }
+
+.user_list.active  .user_list_arrow{
+    transform: rotate(180deg);
+}
+
+.highlight{
+    background-color:#2e7d32 ;
+}
